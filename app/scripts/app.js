@@ -1,6 +1,8 @@
+/* This is the JS that I coped to landing.js. Curriculum mentioned to 
+do this to keep our Javascript organized.
+
 $(document).ready(function() {
   $('.hero-content h3').click(function(){
-    //console.log("hello!");
     var subText = $(this).text();
     $(this).text(subText + "!");
   });
@@ -17,6 +19,9 @@ $(document).ready(function() {
 
   $('.selling-points .point').hover(onHoverAction, offHoverAction);
 });
+*/
+
+require("./landing");
 
 
 

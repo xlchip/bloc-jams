@@ -22,6 +22,6 @@ $(document).ready(function() {
 */
 
 require("./landing");
-
+require("./collection");
 
 

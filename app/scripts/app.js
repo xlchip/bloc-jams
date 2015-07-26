@@ -23,5 +23,6 @@ $(document).ready(function() {
 
 require("./landing");
 require("./collection");
+require("./album");
 
 
